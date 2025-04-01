@@ -200,7 +200,10 @@ g++ -std=c++11 main.cpp -o raytracer
  
 
 ```
- 
+
+Note: Compilation may take several minutes to an hour depending on your hardware, as the raytracer involves complex calculations and optimizations.
+
+
 
 
  
