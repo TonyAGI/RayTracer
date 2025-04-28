@@ -184,7 +184,7 @@ hitable* random_scene() {
 int main() {
     int nx = 800;  // Increase resolution for a better image
     int ny = 600;
-    int ns = 500;  // Samples 
+    int ns = 100;  // Samples 
     std::cout << "P3\n" << nx << " " << ny << "\n255\n";
     
     hitable *world = random_scene();
