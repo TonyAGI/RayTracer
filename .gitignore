@@ -1,0 +1,4 @@
+# Build products and locally rendered images
+ray-tracing/raytracer
+ray-tracing/raytracer-live
+*.ppm
